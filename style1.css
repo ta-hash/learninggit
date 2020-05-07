@@ -1,0 +1,522 @@
+.co{
+    color: green;
+  }
+  .int{
+    color:#337ab7 ;
+  }
+  .sylani{
+    padding-left: 620px;
+    
+    }
+    .table1{
+       
+    }
+     table{
+         background-color:#337ab7;
+         width: 100%;
+        
+     } 
+     .family{
+         position: relative;
+         left: 480px;
+         top: 110px;
+         height: 20px;
+     }    
+     .khana{
+        position: relative;
+        left: 100px;
+        top: 110px;
+        height: 20px;
+     }
+     .medicine{
+        position: relative;
+        left: 780px;
+        top: 110px;
+        height: 20px;
+     }
+     .taleem{
+        position: relative;
+        left: 1000px;
+        top: 110px;
+        height: 20px;
+
+     }
+     h1{
+         color: white;
+     }
+     .we{
+        color:#337ab7 ;}
+        .are{
+            color:green;
+          }
+          .pic{
+            padding-left: 620px;
+          }
+            
+              
+          .page{
+            display: flex;
+            z-index: -1;
+            padding-top: 30px;
+            ​  
+          }
+          .medical{ 
+            position: absolute;
+           margin-left: 68%; 
+           margin-top: 3%;
+           
+           background-color:white;
+          padding-top: 9%;
+           width:29%;
+           height:95px;
+           text-align: center;
+           box-shadow: 5px 10px 18px #888888;
+           
+          
+          }
+          .wel{
+            position: absolute;
+            margin-left: 36%;
+            margin-top: 3%;
+            background-color:white;
+            padding-top: 9%;
+            width:29%;
+            height:95px;
+            text-align: center;
+            box-shadow: 5px 10px 18px #888888;
+            
+          
+          }
+          .on{
+            position: absolute;
+            margin-left: 3%;
+            margin-top: 3%;
+            background-color:white;
+            padding-top: 9%;
+            width:29%;
+            height:95px;
+            text-align: center;
+            box-shadow: 5px 10px 18px #888888;
+           
+          }
+          /* logos */
+          .sc{
+           
+            position: absolute;
+             top: 1760px;
+             left: 200px; 
+             width: 70px;
+             
+          }
+           .welfare{
+            position: absolute;
+            top: 1760px;
+            left: 650px; 
+            width: 70px;
+          } 
+          .al{
+            position: absolute;
+            top: 1760px;
+            left: 80%; 
+            width: 70px;
+          }
+          .ter{
+            position: absolute;
+           margin-left: 3%; 
+           margin-top: 21%;
+           background-color:white;
+          padding-top: 9%;
+           width:29%;
+           height:95px;
+           text-align: center;
+           box-shadow: 5px 10px 18px #888888;
+          }
+          .ro{
+            position: absolute;
+            margin-left: 36%; 
+            margin-top: 21%;
+            background-color:white;
+           padding-top: 9%;
+            width:29%;
+            height:95px;
+            text-align: center;
+            box-shadow: 5px 10px 18px #888888;
+          }
+          .ca{
+            position: absolute;
+            margin-left: 68%; 
+            margin-top: 21%;
+            background-color:white;
+           padding-top: 9%;
+            width:29%;
+            height:95px;
+            text-align: center;
+            box-shadow: 5px 10px 18px #888888; 
+          }
+          .d{
+            position: absolute;
+             top: 1980px;
+             left: 190px; 
+             width: 70px; 
+          }
+          .r{
+            position: absolute;
+            top: 1980px;
+            left: 627px; 
+            width: 70px;   
+          }
+          .t{
+            position: absolute;
+            top: 1980px;
+            left: 1065px; 
+            width: 70px;   
+          }
+
+          .hr{
+            width: 50px;
+            height: 1px;
+            border: 1px solid green;
+            background-color: green;
+            margin-left:30px;
+            margin-top: 5px;
+          } 
+          .lastone{
+            display: flex;
+          }
+          .hes{
+          
+            position: absolute;
+            margin-left: 3%; 
+            margin-top: 1%;
+            background-color:rgb(238, 241, 241);
+           padding-top: 2%;
+            width:20%;
+            height:60px;
+           
+            padding-left: 7%;
+          border:1px solid rgb(221, 220, 220);
+            color: #1384ec;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+          }
+          .ty{
+            
+            position: absolute;
+            margin-left: 36%; 
+            margin-top: 1%;
+            background-color:rgb(238, 241, 241);
+            
+           padding-top: 2%;
+            width:20%;
+            height:60px;
+            padding-left: 7%;
+            border:1px solid rgb(221, 220, 220);
+            color: #1384ec;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+          .cy{
+            
+            position: absolute;
+            margin-left: 3%; 
+            margin-top: 9%;
+            background-color:rgb(238, 241, 241);
+           padding-top: 2%;
+            width:20%;
+            height:60px;
+            padding-left: 7%;
+            border:1px solid rgb(221, 220, 220);
+            color: #1384ec;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+          .kar{
+            position: absolute;
+            margin-left: 36%; 
+            margin-top: 9%;
+            background-color:rgb(238, 241, 241);
+           padding-top: 2%;
+            width:20%;
+            height:60px;
+            padding-left: 7%;
+            border:1px solid rgb(221, 220, 220);
+            color: #1384ec;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+          }
+          
+          .h{
+            position: absolute;
+            margin-left: 5%;
+            margin-top: 3%;
+          }
+          .ing{
+            position: absolute;
+            margin-left: 38%;
+            margin-top: 3%;
+          }
+          .it{
+            position: absolute;
+            margin-left: 5%;
+            margin-top: 11%;
+          
+          }
+          .ther{
+            position: absolute;
+            margin-left: 38%;
+            margin-top: 11%;
+            height: 50px;
+          }
+          .game{
+              position: relative;
+              left: 920px;
+              bottom: 220px;
+              
+          }
+          .font{
+              padding-top: 20px;
+              
+              
+          }
+.detail{
+    color:#1384ec; 
+    font-weight: bold;
+ }
+/* .bag{
+    width: 200px;
+    padding-top: 30px;
+    padding-left: 100px;
+            */
+}
+  
+
+
+    
+}
+ .leg{
+     padding-left: 103px;
+    width: 200px;
+   
+   
+   /* position: relative;
+   
+   left: 700px; */
+} 
+
+ .demo{
+   
+    width: 200px;
+    position: relative;
+    
+     left: 105px;
+     
+} 
+ .mag{
+     padding-left: 08px;
+    width: 200px;
+    position: relative;
+    bottom: 0px; 
+    position: relative;
+    left: 180px;
+   
+} 
+.flat{
+ padding-left: 180px;
+   
+}
+.none{
+    position: relative;
+    left: 180px;
+}
+.ge{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #1384ec;
+   
+  }
+  .ly{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: green;
+  }
+  .solid{
+      color: cornsilk;
+      
+  }
+
+  .details{
+      color:rgb(147, 235, 5) ;
+  }
+  .more{
+      color: blue;
+  }
+  .dated{
+      color: rgb(147, 235, 5);
+  }
+  .gubi{
+      color: ivory;
+  }
+  .im{
+      padding-bottom: 20px;
+  }
+  .ge,.ly{
+      padding-bottom: 20px;
+  }
+   .borderbox{
+    background: rgb(49, 49, 54);
+    padding-top: 50px; 
+     padding-left:95px;
+    padding-bottom:8px ;
+    height:100%;
+    color: #adacac;
+  }
+  
+      /* .links{
+    padding-left: 430px;
+    position: relative;
+    bottom: 22px;
+    color: white;   
+    font-size: large; */
+    /* padding-top: -2px; */
+  }  
+   /* .con{
+    
+    color: white; 
+    font-size: large;
+ position: relative;
+ top: px;
+ bottom: 55px;
+ left: 780px;
+  }  */
+  .gn{
+    
+    position: absolute;
+    left: 70%;
+   top: 465%;
+  }
+  .ki{
+    position: absolute;
+    left: 890px;
+    top: 455%;
+    color: white;
+    padding-top: 135px;
+    
+  }
+  .angle{
+    position: absolute;
+    left: 925px;
+    top: 455%;
+    height: 10px;
+    color: white; 
+    padding-top: 135px;
+  }
+  .in{
+    position: absolute;
+    left: 965px;
+    top: 455%;
+    height: 10px;
+    padding-top: 135px;
+  }
+  .video{
+    position: absolute;
+    left: 1005px;
+    top: 455%;
+    height: 10px;
+    padding-top: 135px;
+  }
+  
+  .sylan {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background-color:#1384ec ;
+    color: white;
+    padding-left: 7%;
+    padding-top: %;
+   }
+
+   footer{
+        padding-top: 50px; 
+        height: 280px; 
+   } 
+   .pn{
+     position: relative;
+     left: 430px;
+     bottom: 20px;
+   }
+   /* .con{
+    
+    color: white; 
+    font-size: large;
+ position: relative;
+ top: px;
+ bottom: 55px;
+ left: 780px;
+  }  */
+  .con{
+    color: white; 
+    font-size: large;
+    padding-left: 800px;
+    position: relative;
+    bottom: 40px;
+  }
+  .links{
+    color: white; 
+    font-size: large;
+    padding-left: 430px;
+    position: relative;
+    bottom: 20px;
+  }
+  .minus{
+    position: relative;
+    bottom: 60px;
+    
+  }
+  .men{
+    position: relative;
+    bottom: 40px;
+    
+  }
+  .dash{
+    position: relative;
+    bottom: 60px;
+    right: 40px;
+  }
+  .goll{
+    position: relative;
+    bottom: 50px;
+    
+  }
+  }
+  .winner{
+    position: relative;
+    bottom: 50px;
+    left: 6px;
+  }
+  .van{
+    position: relative;
+    bottom: 55px;
+    
+  }
+  .rock{
+    line-height: 1.5;
+  }
+  .dogi{
+    line-height: 1.2;
+  }
+  .damn{
+    line-height: 1.2;
+  }
+  .mango{
+    line-height: 1.2;
+  }
+  .copy{
+    padding-left: 80px;
+    
+  }
+  .pak{
+    background-color:#337ab7;
+    height: 20px;
+    width: 100%;
+    padding-top: 20px;
+    position: relative;
+    top: 20px;
+  }
+  

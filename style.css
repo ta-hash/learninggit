@@ -1,0 +1,335 @@
+
+.head{
+    background-color:#337ab7;
+    height: 50px;
+    padding-top: 0px;
+    
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.three{
+    float:right;
+    
+}
+.two{
+    padding-top:  0px;
+    color: white;
+    text-align: center;
+   padding: 13px;
+   margin-left:260px;
+ 
+   
+
+}
+.five{
+    font-size:24px;
+    position: relative;
+    top:200px ;
+    left:20 ;
+}
+button  {
+    float: right;
+    margin: 10px;
+    height: 30px;
+    font-size: 10px;
+    color: gray;
+    width: 100px;
+    margin-right: 30px;
+    font-family: 'Open Sans', sans-serif;
+   }
+   .btnone{
+       position: absolute;
+       top: 0px;
+       left: 994px;
+       width: 70px;
+   }
+   .btnthree{
+    position: relative;
+    right: 35px;
+   
+   }
+  .face{
+      position: absolute;
+      top:20px ;
+      left: 115px;
+      color: white;
+      font-size: 15px;
+  }
+  .twitt{
+    position: absolute;
+    top:20px ;
+    left: 150px;
+    color: white;
+    font-size: 15px;
+
+  }
+  .insta{
+    position: absolute;
+    top:20px ;
+    left: 185px;
+    color: white;
+    font-size: 15px;
+  }
+  .youtube{
+    position: absolute;
+    top:20px ;
+    left: 220px;
+    color: white;
+    font-size: 15px;
+  }
+
+  .whts{
+      height: 15px;
+      position: absolute;
+    top:20px ;
+    left: 260px;
+    color: white;
+  }
+ .whts:hover {
+    background-color: blue;
+    
+    
+  }
+  .fa:hover{
+      background-color:#337ab7;;
+      size: 44px;
+     
+  }
+ .menu{
+   
+    background-color:rgba(236, 232, 232, 0.986);
+    height: 80px;
+    min-width: 160;
+    
+    
+    
+  }
+  .button {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 8px 2px;
+    cursor: pointer;
+     border-radius: 16px;
+    font-weight: bold;
+   
+  }
+  
+  .Donation,button:hover {
+    background-color:#337ab7 ;
+    color: white;
+  }
+  .Donation{
+    background-color:#ddd; 
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    position: absolute;
+    right: 100px;
+    top: 65px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+  }
+  .news{
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    position: absolute;
+    right: 215px;
+    top: 65px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+ .media{
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    position: absolute;
+    right: 330px;
+    top: 65px;
+    font-weight: bold;
+    font-family: sans-serif;
+ }
+.future{
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    position: absolute;
+    right: 445px;
+    top: 65px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.service{
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    position: absolute;
+    right: 550px;
+    top: 65px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+  .About{
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    position: absolute;
+    right: 665px;
+    top: 65px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+.home{
+    background-color:#337ab7;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    position: absolute;
+    right: 780px;
+    top: 65px;
+    font-weight: bold;
+    font-family: sans-serif;
+    
+}
+.logo{
+     height: 60px;
+     position: absolute;
+     left: 90px;
+     padding-top: 0px;
+     
+     
+}
+
+
+/* slide show */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    /* margin: auto; */
+  }
+  
+  /* Caption text */
+  .text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    height: 5px;
+    width: 15px;
+    /* margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  /* .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  } */
+  
+  /* On smaller screens, decrease text size */
+  /* @media only screen and (max-width: 300px) {
+    .text {font-size: 11px}
+  } */
+  .img1{
+      height: auto;
+      
+  } 
+  .solid{
+   
+     ;
+     width: 25px;
+  }
+  .co{
+    color: green;
+  }
+  
